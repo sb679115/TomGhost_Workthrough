@@ -224,3 +224,4 @@ bin  boot  dev  etc  home  initrd.img  initrd.img.old  lib  lib64  lost+found  m
 root.txt  ufw
 # cat root.txt  
 THM{Z1P_1S_FAKE}
+
