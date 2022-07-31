@@ -166,7 +166,7 @@ merlin@ubuntu:/home$ cd merlin
 merlin@ubuntu:~$ ls
 user.txt
 merlin@ubuntu:~$ cat user.txt 
-THM{GhostCat_1s_so_cr4sy}
+#THM{GhostCat_1s_so_cr4sy}
 merlin@ubuntu:~$ sudo -l -l
 Matching Defaults entries for merlin on ubuntu:
     env_reset, mail_badpass, secure_path=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/snap/bin
